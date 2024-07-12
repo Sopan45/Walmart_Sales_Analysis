@@ -11,7 +11,7 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 # My Projects
 
 
-| Column                                     | Description	Data                                   | Type      |
+| Column                                     | Description	                                 |Data Type      |
 |--------------------------------------------|-----------------------------------------------------|-----------|
 |invoice_id                                  |Invoice of the sales made                            |VARCHAR(30)|
 |branch                                      |Branch at which sales were made	                     |VARCHAR(5) |
