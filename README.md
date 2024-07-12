@@ -121,7 +121,7 @@ $ total = VAT + COGS\= 16.0265 + 320.53 =
 $ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\=\frac{16.0265}{336.5565} = 0.047619\\approx 4.7619% $
 
 ## Code
-For the rest of the code, check the  [Walmart_sql_file.sql]() file
+For the rest of the code, check the  [Walmart_sql_file.sql](https://github.com/Sopan45/Walmart_Sales_Analysis/blob/main/Walmart_sql_file.sql) file
 
 -- Create database
 
